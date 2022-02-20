@@ -1,1 +1,8 @@
-This is some test text.
+Here is a couple of scripts for all of the roblox developers out there who are just getting started with Lua programming. -- I am a beginner too
+print("Hello World!")
+
+function insert your function name here()
+    Here is where your code goes.
+end
+
+that's it for now. Bye!
